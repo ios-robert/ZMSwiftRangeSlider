@@ -10,8 +10,8 @@ A simple Range Slider library by Swift.
 #### Install with [CocoaPods](http://cocoapods.org/)
 
 ```ruby
-platform :ios, '8.0'
-pod 'ZMSwiftRangeSlider', '~> 0.1.9'
+platform :ios, '12.0'
+pod 'ZMSwiftRangeSlider', '~> 5.0.0'
 ```
 
 #### [Example](Example/Example/ViewController.swift)
